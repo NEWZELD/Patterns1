@@ -20,7 +20,7 @@ public:
 // Ñòàðûé ïðèíòåð (LPT)
 class OldLPTPrinter {
 public:
-    string printLPT(const std::string& data) {
+    string printLPT(const string& data) {
         return "Ñòàðûé ïðèíòåð ïå÷àòàåò ïî LPT: " + data;
     }
 };
